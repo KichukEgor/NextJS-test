@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# About This Project
+
+This project is a **test assignment** to demonstrate my expertise in modern web development techniques. It includes semantic HTML, accessibility practices, animations, and performance optimizations.
+
+## Features
+
+- **Free API**: [pokeapi.co](https://pokeapi.co/)
+- **Semantic HTML**: Tags like `<header/>`, `<main/>`, `<section/>`, and `<article/>` are used.
+- **Technologies**: Developed with **Next.js 14**, **React**, **Tailwind CSS**, and **TypeScript**.
+- **Animations**:
+  - Smooth text appearance on scroll.
+  - Parallax effects for background elements.
+  - Custom page loading indicator.
+
+## Accessibility
+
+Implemented ARIA tags such as:
+- `aria-label`
+- `aria-hidden`
 
 ## Getting Started
 
