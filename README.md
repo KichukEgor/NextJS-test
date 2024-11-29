@@ -2,6 +2,8 @@
 
 This project is a **test assignment** to demonstrate my expertise in modern web development techniques. It includes semantic HTML, accessibility practices, animations, and performance optimizations.
 
+![Pokemon Group](public/assets/images/pokemon-group.png)
+
 ## Features
 
 - **Free API**: [pokeapi.co](https://pokeapi.co/)
